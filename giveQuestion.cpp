@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <cstlib>
-#include <stime>
+#include <cstdlib>
+#include <ctime>
 #include "Sudoku.h"
 using namespace std;
 
